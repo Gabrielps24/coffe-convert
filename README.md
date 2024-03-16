@@ -35,6 +35,10 @@ O projeto utiliza a fonte "Roboto" do Google Fonts para estilização.
 
 A aplicação possui um design responsivo e agradável, com uso de cores e elementos visuais que facilitam a compreensão e interação do usuário.
 
+## Vizualização
+
+![Visualização do coffee convert](https://github.com/Gabrielps24/coffee-convert/blob/master/assets/previw.jpeg?raw=true)
+
 ## Contribuição
 
 Sinta-se à vontade para contribuir com melhorias, correções de bugs ou novas funcionalidades através de pull requests neste repositório.
